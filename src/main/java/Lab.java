@@ -15,5 +15,10 @@ public class Lab {
      */
     public void throwUncheckedException(){
 
+        int a [] = {1,2};
+        for(int i=0; i<=3; i++){
+            System.out.println(a[3]);
+        }
+
     }
 }
